@@ -1,0 +1,7 @@
+{
+  "editor.tabSize": 2,
+  "prettier.singleQuote": true,
+  "prettier.printWidth": 150,
+  "editor.cursorBlinking": "expand",
+  "errorLens.enabled": true
+}
